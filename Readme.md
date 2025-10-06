@@ -13,14 +13,13 @@
 ## Mit Github synchronisieren
 
 
-1. Erstelle einen Ordner auf dem **Desktop**. Hier speicherst du alle deine **Jupyter-Notebooks** aus dieser Vorlesung.
 
-2. Wenn du noch keinen **GitHub**-Account hast, erstelle dir einen: [GitHub-Account](https://github.com/).
+1. Wenn du noch keinen **GitHub**-Account hast, erstelle dir einen: [GitHub-Account](https://github.com/).
 
-3. Erstelle ein neues GitHub-[Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)  
+2. Erstelle ein neues GitHub-[Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)  
    ![alt text](Bilder/create_repo.png)
 
-
+3. Erstelle einen Ordner in Desktop und initialisiere einen Repo mit von Terminal `git init`
 4. Adde diese Repo `git remote add origin  https://github.com/username/repo.git `
 5. Adde Vorlesung Repo als upstream  `git remote add upstream https://github.com/99arp/ki_ep.git`
 6. Verifiziere mit `git remote -v`
