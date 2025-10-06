@@ -141,7 +141,7 @@ int main() {
 
 * Python ist sehr beliebt. ![TIOBE INDEX for September 2025](Bilder/image.png) 
     
-* Python ist DIE Sprache für KI. 
+* Python ist DIE Sprache für KI.z.B. Frameworks für KI: `pytorch`, `sk-learn`, `unified-planning`
 
 --- 
 # Grundlagen von Python
