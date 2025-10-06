@@ -1,2 +1,5 @@
-.HouseKeeping/
-.vscode/
+# Ignore Housekeeping
+.Housekeeping/
+Übung [2-9]/
+
+Übung 1/Intro_to_Python_for_LRT_Übung_1_Lösung.ipynb

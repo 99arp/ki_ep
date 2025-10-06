@@ -19,6 +19,7 @@
 
 3. Erstelle ein neues GitHub-[Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)  
    ![alt text](Bilder/create_repo.png)
+4. Clone 
 
 4. Füge dann ein neues Remote zu deinem Repo hinzu:
    ```bash
