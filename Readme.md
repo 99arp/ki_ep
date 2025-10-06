@@ -40,5 +40,5 @@
    ```
 10. Um deine Änderungen von GitHub zu holen (pull):
    ```
-   git pull
+   git pull # pullt standardmäßig deine Version
    ```
