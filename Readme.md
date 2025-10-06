@@ -15,8 +15,8 @@
 
 1. Erstelle eine neue Repo: 
  ![alt text](Bilder/Gitlab.png)
-
-    Alternativ, wenn GitLab nicht vorhanden. 
+2. Personal Access Token [Einrichten](https://git.unibw.de/-/user_settings/personal_access_tokens?page=1&state=active&sort=expires_asc). Dieser Token dient als Passwort. Sicher speichern. 
+3. Alternativ, wenn GitLab nicht vorhanden. 
     1. Wenn du noch keinen **GitHub**-Account hast, erstelle dir einen: [GitHub-Account](https://github.com/).
 
     2. Erstelle ein neues GitHub-[Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)  
@@ -29,7 +29,7 @@
 7. Stelle es so ein, dass die pushes in deiner Repo landen `git config remote.pushDefault origin`
    
 
-   
+
 8. Die Neue Datei für die Vorlesung pullst du mit `git pull upstream master`
 
 

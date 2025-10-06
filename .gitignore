@@ -4,3 +4,4 @@
 
 #  Remove from gitignore one by one for Lösung
 Übung 1/Einführung_in_Python_Übung - Lösung.ipynb
+*.pptx
